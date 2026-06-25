@@ -19,7 +19,7 @@
     <ImageView
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:src="@android:drawable/stat_sys_wifi"
+        android:src="@android:drawable/ic_menu_share"
         android:layout_marginBottom="8dp" />
 
     <TextView
